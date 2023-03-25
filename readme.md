@@ -1,6 +1,6 @@
 # Card API Project (Fetch)
 
-ℹ️ Live site URL: https://github.com/Evertonneto/Cards-Api-Project
+ℹ️ Live site URL: https://evertonneto.github.io/Cards-Api-Project/
 
 ## Desktop Version
 
